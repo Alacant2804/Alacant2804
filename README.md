@@ -6,7 +6,7 @@
 - **Frontend**: React.js, Next.js, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, PostgreSQL
-- **Others**: Git, GitHub, REST APIs, CMS (WordPress)
+- **Others**: Git, GitHub, REST APIs, CMS (WordPress), Python
 
 📚 **Always eager to**: learn, grow, and collaborate while exploring new technologies.
 
