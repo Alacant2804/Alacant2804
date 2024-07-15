@@ -12,5 +12,5 @@
 
 🌟 **Dreaming of**: mastering all programming languages to expand my development capabilities.
 
-🌱 **Let's connect and build something amazing together!
+🌱 ***Let's connect and build something amazing together!***
 
