@@ -3,11 +3,11 @@
 🚀 **Currently focused on**: enhancing my expertise in React.js and Node.js to create seamless and interactive web applications.
 
 🧰 **Toolbox**:
-- **Frontend**: React.js, HTML, CSS, JavaScript
+- **Frontend**: React.js, HTML, CSS, JavaScript, Next.js, TypeScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, PostgreSQL
 - **Others**: Git, GitHub, REST APIs, CMS (WordPress), Python
-- **Learning**: Next.js, TypeScript, React Native
+- **Learning**: React Native
 
 📚 **Always eager to**: learn, grow, and collaborate while exploring new technologies.
 
